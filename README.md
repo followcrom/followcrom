@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Richard Crompton, aka followCrom.
+My name is Richard Crompton, aka followCrom.
 - 📫 Visit me at <a href="https://followcrom.online">followcrom.online</a>
 
 🔭 I’m currently working through a Data Science Bootcamp from Jovian:
