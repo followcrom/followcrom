@@ -30,6 +30,6 @@
 
 ### Contact
 
-📫 Feel free to reach out to me for any collaborations, projects, or just for a chat. [Get in touch](https://followcrom.online/contact/contact.php).
+📫 Feel free to reach out to me for any collaborations, projects, or just for a chat. [Get in touch](https://followcrom.online/contact/contact.php). Tight deadlines and high standards are part of my daily routine.
 
 [![Static Badge](https://img.shields.io/badge/followCrom-online-blue)](http://followcrom.online)
