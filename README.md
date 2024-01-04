@@ -1,6 +1,6 @@
 # 👋 Hi, I'm followCrom
 
-## ⚙️ DJ turned Developer / 🤹 / Mixing Skills 🛠️
+## ⚙️ DJ turned Developer // Mixing Skills 🤹
 
 ### Portfolio
 
@@ -24,12 +24,12 @@
 
 ### Education
 
-🎓 I have a degree in Multi-Media Communication from the University of Winchester. I completed a Data Science Bootcamp and earned certifications from the University of Michigan, equipping me with a robust skill set in data science and software development.
+🎓 I have a degree in Multi-Media Communication from the University of Winchester. I completed a Data Science Bootcamp and earned certifications from the University of Michigan, AWS, and Google, equipping me with a robust skill set in data science and software development.
 
 🌍 I Speak English, Spanish, and basic French.
 
 ### Contact
 
-📫 Feel free to reach out to me for any collaborations, projects, or just for a chat. [Get in touch](https://followcrom.online/contact/contact.php). Tight deadlines and high standards are part of my daily routine.
+📫 [Get in touch](https://followcrom.online/contact/contact.php). Feel free to reach out to me for any collaborations, projects, or just for a chat. Tight deadlines and high standards are part of my daily routine. 🕤
 
 [![Static Badge](https://img.shields.io/badge/followCrom-online-blue)](http://followcrom.online)
