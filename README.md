@@ -16,7 +16,7 @@
 
 ### Employment
 
-📻 I worked at BBC Radio One for 6 years, before becoming a full-time DJ.
+📻 I worked at BBC Radio One for 6 years before becoming a full-time DJ.
 
 🎧 I was a resident DJ at The Roadhouse and Cafe de Paris among others, and have DJ'd all over Europe.
 
@@ -24,7 +24,7 @@
 
 ### Education
 
-🎓 I have a degree in Multi-Media Communication from the University of Winchester. I completed a Data Science Bootcamp and earned certifications from the University of Michigan, AWS, and Google, equipping me with a robust skill set in data science and software development.
+🎓 I have a degree in Multi-Media Communication from the University of Winchester. I completed a Data Science Bootcamp and earned certifications from the University of Michigan, AWS, and Postman, equipping me with a robust skill set in data science and software development.
 
 🌍 I Speak English, Spanish, and basic French.
 
