@@ -20,7 +20,7 @@
 
 🎧 I was a resident DJ at The Roadhouse and Cafe de Paris among others, and have DJ'd all over Europe.
 
-🧑🏻‍💼 I'm a Co-Director of [DJ eXperience](https://djexperience.co.uk), a service offering fun and educational DJ workshops, parties, and music production courses for all ages and levels.
+🧑🏻‍💼 I'm a Co-Director of **DJ eXperience**; a service offering fun and educational DJ workshops, parties, and music production courses for all ages and levels.
 
 ### Education
 
