@@ -16,7 +16,7 @@
 
 ### Employment
 
-📻 I worked at BBC Radio One for 6 years before becoming a full-time DJ.
+📻 I worked at BBC Radio One for 5 years before becoming a full-time DJ.
 
 🎧 I was a resident DJ at The Roadhouse and Cafe de Paris among others, and have DJ'd all over Europe.
 
