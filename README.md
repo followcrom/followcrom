@@ -6,7 +6,7 @@
 
 Explore some of the projects that showcase how I've translated my audio expertise into cutting-edge development skills.
 
-<h1><a href="https://followcrom.com" style="font-size:3em; font-decoration:underline;">Visit followCrom online</a></h1>
+<h1><a href="https://followcrom.com" style="font-size:3em; text-decoration:underline;">Visit followCrom online</a></h1>
 
 <p align="center"><img src="imgs/dj_dev.png" width="240"/></p>
 
@@ -50,7 +50,7 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 Whether you're looking to collaborate on a project, need a developer who can meet tight deadlines with high standards, or just want to chat about the intersection of music and technology, I'm all ears. 👂👂 My experience in the fast-paced worlds of live radio and nightclub DJing has honed my ability to perform under pressure and deliver exceptional results.
 
-<h1>🤝 <a href="https://followcrom.com/contact/contact.php" style="font-size:2em; font-decoration:underline;">Let's Connect</a> 🚀</h1>
+<h1>🤝 <a href="https://followcrom.com/contact/contact.php" style="font-size:2em; text-decoration:underline;">Let's Connect</a> 🚀</h1>
 
 ---
 
