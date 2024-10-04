@@ -12,9 +12,9 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 ### 🎛️ Mixing Skills: a DJ's Journey into Development 🛣️
 
-- 🐍 **Python Maestro**: As a Python aficionado, I dive deep into data, extracting insights and crafting visualizations that tell compelling stories. Almost every detail of life is logged, somewhere, by those with the sophistication to process and act on the data they collect, turning it into actionable intelligence.
+- 🐍 **Python Maestro**: As a Python aficionado, I dive deep into data, extracting insights and crafting visualizations that tell compelling stories. Almost every detail of life is logged, somewhere, by those with the sophistication to process and act on the data they collect by turning it into actionable intelligence.
 
-- 📱 **App Architect**: My passion for creation extends to the digital realm, where I architect and build web and mobile applications. Each app is a carefully composed piece, designed to resonate with users and provide seamless experiences across devices.
+- 📱 **App Architect**: I architect and build web and mobile applications. Each app is a carefully composed piece, designed to resonate with users and provide seamless experiences across devices.
 
 - 🖥️ **Tech Virtuoso**: My IT repertoire is a well-tuned ensemble of skills, honed through years of hands-on experience and an insatiable appetite for learning. From system architecture to UX design, I orchestrate technology to create harmonious digital solutions.
 
@@ -50,8 +50,6 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 Whether you're looking to collaborate on a project, need a developer who can meet tight deadlines with high standards, or just want to chat about the intersection of music and technology, I'm all ears. 👂👂 My experience in the fast-paced worlds of live radio and nightclub DJing has honed my ability to perform under pressure and deliver exceptional results.
 
-<h1>🤝 <a href="https://followcrom.com/contact/contact.php" style="font-size:2em; text-decoration:underline;">Let's Connect</a> 🚀</h1>
-
----
+<h1>🤝 <a href="https://followcrom.com/contact/contact.php" style="font-size:2em; text-decoration:underline;">Let's Connect</a></h1>
 
 [![followCrom.com](https://img.shields.io/badge/Discover%20More-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
