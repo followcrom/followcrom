@@ -38,15 +38,19 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 - 📊 **Continuous Learning**: To keep my skills on the cutting edge, I've completed an intensive Data Science Bootcamp, diving deep into the world of analytics and machine learning. I've also earned certifications from the prestigious University of Michigan, mastered cloud computing with AWS, and become proficient in API development with Postman. This continuous learning equips me with a robust toolkit to tackle complex technological challenges.
 
+---
+
 ### 🌍 Languages: Communicating in Meat Space
 
 - 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**.
+
+---
 
 ### 📬 Contact: Get in Touch 📨
 
 Whether you're looking to collaborate on a project, need a developer who can meet tight deadlines with high standards, or just want to chat about the intersection of music and technology, I'm all ears. 👂👂 My experience in the fast-paced worlds of live radio and nightclub DJing has honed my ability to perform under pressure and deliver exceptional results.
 
-🤝 <h1><a href="https://followcrom.com/contact/contact.php" style="font-size:3em; font-decoration:underline;">Let's Connect</a></h1> 🚀
+<h1>🤝 <a href="https://followcrom.com/contact/contact.php" style="font-size:2em; font-decoration:underline;">Let's Connect</a> 🚀</h1>
 
 ---
 
