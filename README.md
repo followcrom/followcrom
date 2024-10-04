@@ -34,7 +34,7 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 ### 🎓 Education: The Rhythm of Learning
 
-- 🏛️ **University of Winchester**: My academic journey began with a degree in Multi-Media Communication, where I learned to blend various forms of media into cohesive, impactful messages. This interdisciplinary approach has been the backbone of my diverse career.
+- 🏫 **University of Winchester**: My academic journey began with a degree in Multi-Media Communication, where I learned to blend various forms of media into cohesive, impactful messages. This interdisciplinary approach has been the backbone of my diverse career.
 
 - 📊 **Continuous Learning**: To keep my skills on the cutting edge, I've completed an intensive Data Science Bootcamp, diving deep into the world of analytics and machine learning. I've also earned certifications from the prestigious University of Michigan, mastered cloud computing with AWS, and become proficient in API development with Postman. This continuous learning equips me with a robust toolkit to tackle complex technological challenges.
 
