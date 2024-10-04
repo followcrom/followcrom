@@ -1,4 +1,4 @@
-# 👋 Greetings! I'm followCrom
+# 👋 Greetings from followCrom
 
 ## ⚙️ From Spinning Decks to Spinning Up Servers: A DJ's Journey into Development 🤹
 
@@ -6,7 +6,9 @@
 
 Step into my digital realm where music and code harmonize. My portfolio is a symphony of projects that showcase how I've translated my audio expertise into cutting-edge development skills.
 
-[Explore followcrom.com](https://followcrom.com)
+<h1><a href="https://followcrom.com" style="font-size:3em;">followCrom online</a></h1>
+
+---
 
 ### 🎛️ Mixing Skills: Where Creativity Meets Technology
 
@@ -16,13 +18,17 @@ Step into my digital realm where music and code harmonize. My portfolio is a sym
 
 - 🖥️ **Tech Virtuoso**: My IT repertoire is a well-tuned ensemble of skills, honed through years of hands-on experience and an insatiable appetite for learning. From system architecture to UX design, I orchestrate technology to create harmonious digital solutions.
 
-### 🎧 Employment: A Career That Rocks
+---
+
+### 🎧 Employment: Rocksteady
 
 - 📻 **BBC Radio One**: For six exhilarating years, I was part of the pulse of British music at BBC Radio One. This experience laid the foundation for my transition into the world of professional DJing, where I learned to read crowds and create unforgettable experiences through sound.
 
 - 🎶 **European DJ**: As a resident DJ at iconic venues like The Roadhouse and Cafe de Paris, I've had the privilege of setting the soundtrack for countless nights of celebration. My turntables have traveled across Europe, spinning tracks that transcend language barriers and unite people through the universal language of music.
 
 - 🎚️ **DJ eXperience Co-Director**: I orchestrated a different kind of mix as Co-Director of DJ eXperience. We're on a mission to share the joy of music creation, offering immersive DJ workshops, electrifying parties, and comprehensive music production courses that cater to all ages and skill levels.
+
+---
 
 ### 🎓 Education: The Rhythm of Learning
 
