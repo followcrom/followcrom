@@ -8,7 +8,7 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 <h1><a href="https://followcrom.com" style="font-size:3em;">Visit followCrom online</a></h1>
 
-<img src="imgs/dj_dev.png" width="200" align="center" style="border-radius:50%"/>
+<p align="center"><img src="imgs/dj_dev.png" width="200" style="border-radius:50%"/></p>
 
 ### 🎛️ Mixing Skills: a DJ's Journey into Development 🛣️
 
@@ -40,13 +40,13 @@ Explore some of the projects that showcase how I've translated my audio expertis
 
 ### 🌍 Languages: Communicating in Meat Space
 
-- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**. I speak English, Spanish, and French.
+- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**.
 
 ### 📬 Contact: Get in Touch 📨
 
 Whether you're looking to collaborate on a project, need a developer who can meet tight deadlines with high standards, or just want to chat about the intersection of music and technology, I'm all ears. 👂👂 My experience in the fast-paced worlds of live radio and nightclub DJing has honed my ability to perform under pressure and deliver exceptional results.
 
-[Let's Connect](https://followcrom.com/contact/contact.php)
+🤝 [Let's Connect](https://followcrom.com/contact/contact.php) 🚀
 
 ---
 
