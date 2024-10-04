@@ -1,18 +1,18 @@
 # 👋 Greetings from followCrom
 
-## ⚙️ From Spinning Decks to Spinning Up Servers: A DJ's Journey into Development 🤹
+## 💿 From Spinning Tunes to Spinning Up Servers 🖥
 
-### 🌐 Portfolio: Where Beats Meet Bytes
+### 🌐 Portfolio:
 
-Step into my digital realm where music and code harmonize. My portfolio is a symphony of projects that showcase how I've translated my audio expertise into cutting-edge development skills.
+Explore some of the projects that showcase how I've translated my audio expertise into cutting-edge development skills.
 
-<h1><a href="https://followcrom.com" style="font-size:3em;">followCrom online</a></h1>
+<h1><a href="https://followcrom.com" style="font-size:3em;">Visit followCrom online</a></h1>
 
----
+<img src="imgs/dj_dev.png" width="200" align="center" style="border-radius:50%"/>
 
-### 🎛️ Mixing Skills: Where Creativity Meets Technology
+### 🎛️ Mixing Skills: a DJ's Journey into Development 🛣️
 
-- 🐍 **Python Maestro**: As a Python aficionado, I dive deep into data, extracting insights and crafting visualizations that tell compelling stories. My code orchestrates data symphonies, turning raw information into actionable intelligence.
+- 🐍 **Python Maestro**: As a Python aficionado, I dive deep into data, extracting insights and crafting visualizations that tell compelling stories. Almost every detail of life is logged, somewhere, by those with the sophistication to process and act on the data they collect, turning it into actionable intelligence.
 
 - 📱 **App Architect**: My passion for creation extends to the digital realm, where I architect and build web and mobile applications. Each app is a carefully composed piece, designed to resonate with users and provide seamless experiences across devices.
 
@@ -20,13 +20,15 @@ Step into my digital realm where music and code harmonize. My portfolio is a sym
 
 ---
 
-### 🎧 Employment: Rocksteady
+### 💼 Employment: Rocksteady
 
-- 📻 **BBC Radio One**: For six exhilarating years, I was part of the pulse of British music at BBC Radio One. This experience laid the foundation for my transition into the world of professional DJing, where I learned to read crowds and create unforgettable experiences through sound.
+- 📻 **BBC Radio One**: For six years, I was part of the British music scene at BBC Radio One. This experience laid the foundation for my transition into the world of professional DJing.
 
-- 🎶 **European DJ**: As a resident DJ at iconic venues like The Roadhouse and Cafe de Paris, I've had the privilege of setting the soundtrack for countless nights of celebration. My turntables have traveled across Europe, spinning tracks that transcend language barriers and unite people through the universal language of music.
+- 🎧 **DJ**: I was a resident DJ at iconic venues like The Roadhouse and Hammersmith Palais among others, and have DJ'd all over Europe.
 
-- 🎚️ **DJ eXperience Co-Director**: I orchestrated a different kind of mix as Co-Director of DJ eXperience. We're on a mission to share the joy of music creation, offering immersive DJ workshops, electrifying parties, and comprehensive music production courses that cater to all ages and skill levels.
+- 🎚️ **DJ eXperience Co-Director**: I orchestrated a different kind of mix as Co-Director of DJ eXperience, where we shared the joy of DJing and music production, offering immersive DJ workshops, unique parties, and comprehensive music production courses that catered to all ages and skill levels.
+
+- 🏛 **Home Office**: I currently work as an Infrastructure Enginner at the Home Office.
 
 ---
 
@@ -36,17 +38,15 @@ Step into my digital realm where music and code harmonize. My portfolio is a sym
 
 - 📊 **Continuous Learning**: To keep my skills on the cutting edge, I've completed an intensive Data Science Bootcamp, diving deep into the world of analytics and machine learning. I've also earned certifications from the prestigious University of Michigan, mastered cloud computing with AWS, and become proficient in API development with Postman. This continuous learning equips me with a robust toolkit to tackle complex technological challenges.
 
-### 🌍 Languages: Communicating Across Borders
+### 🌍 Languages: Communicating in Meat Space
 
-My linguistic repertoire includes fluent English and Spanish, allowing me to connect with diverse audiences and collaborate on international projects. I'm also equipped with basic French, expanding my ability to engage with francophone cultures and markets.
+- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**. I speak English, Spanish, and French.
 
-### 📬 Contact: Let's Collaborate
+### 📬 Contact: Get in Touch 📨
 
-Whether you're looking to collaborate on a groundbreaking project, need a developer who can meet tight deadlines with high standards, or just want to chat about the intersection of music and technology, I'm all ears. My experience in the fast-paced worlds of live radio and nightclub DJing has honed my ability to perform under pressure and deliver exceptional results.
+Whether you're looking to collaborate on a project, need a developer who can meet tight deadlines with high standards, or just want to chat about the intersection of music and technology, I'm all ears. 👂👂 My experience in the fast-paced worlds of live radio and nightclub DJing has honed my ability to perform under pressure and deliver exceptional results.
 
-[Reach Out and Connect](https://followcrom.com/contact/contact.php)
-
-Let's create something amazing together!
+[Let's Connect](https://followcrom.com/contact/contact.php)
 
 ---
 
