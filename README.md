@@ -6,12 +6,12 @@
 
 Explore projects showcasing my transition from audio expertise to software development.
 
-<h1><a href="https://followcrom.com" style="font-size:3em; text-decoration:underline;">Visit followCrom online</a></h1>
+<h1>🔗 <a href="https://followcrom.com" style="font-size:3em; text-decoration:underline;">Visit followCrom online</a></h1>
 
 <p align="center"><img src="imgs/dj_dev.png" width="50%"/></p>
 
 
-### 🎛️ Mixing Skills: a DJ's Journey into Development 🛣️
+### 🛣️ Mixing Skills: a DJ's Journey into Development
 
 - 🐍 **Python**: Proficient in data analysis, visualization, and backend development.
 
