@@ -1,4 +1,4 @@
-# 👋 Greetings from followCrom
+# 👋 Greetings from followCrom 👋
 
 ## 💿 From Spinning Tunes to Spinning Up Servers 🖥
 
