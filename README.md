@@ -1,56 +1,104 @@
-# 👋 Greetings from followCrom
+# 👋 followCrom on GitHub
 
-## 💿 From Spinning Tunes to Spinning Up Servers 🖥
+### DJ turned Developer // Mixing Skills 💿
 
-### 🌐 Portfolio:
+###  From Spinning Tunes to Spinning Up Servers 🖥
 
-Explore projects showcasing my transition from audio expertise to software development.
-
-<h1>🔗 <a href="https://followcrom.com" style="font-size:3em; text-decoration:underline;">Visit followCrom online</a></h1>
-
-<p align="center"><img src="imgs/dj_dev.png" width="50%"/></p>
+### 🌐 Portfolio: <a href="https://followcrom.com" style="text-decoration:underline;">Visit followCrom online</a>
 
 
-### 🛣️ Mixing Skills: a DJ's Journey into Development
+<table style="width:100%; background-color:#222; border-collapse:separate; border-spacing:10px;">
+  <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+          <p align="center">
+      <img src="imgs/dj_dev.png" alt="Image 1" width="150">
+            </p>
+    </td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;">followCrom online</h2>
+      Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <p align="center">
+        <img src="https://followcrom.com/images/random_wisdom.png" alt="Image 1" width="150">
+      </p>
+    </td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;">RanDOM WisDOM</h2>
+      Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+          <p align="center">
+      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="Image 1" width="150">
+            </p>
+    </td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;">MixTape HeavyWeight</h2>
+      Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+            <p align="center">
+            <img src="https://followcrom.com/images/wordOftheDay.png" alt="Image 1" width="150">
+          </p>
+          </td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;">Word of the Week</h2>
+      Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>
+    </td>
+  </tr>
+    <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+            <p align="center">
+            <img src="https://followcrom.com/images/djrr.jpg" alt="Image 1" width="150">
+          </p></td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;">Momento Contento</h2>
+      Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>
+    </td>
+  </tr>
+    <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+            <p align="center">
+            <img src="https://followcrom.com/images/contact_2.png" alt="Image 1" width="150">
+    </td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;">&#x1F44B; Get in Touch</h2>
+      Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      <span style="color:#FFF;">&#x1F4E6;</span>
+    </td>
+  </tr>
+</table>
 
-- 🐍 **Python**: Proficient in data analysis, visualization, and backend development.
 
-- 📱 **Full-Stack Development**: Experienced in building web and mobile applications.
-
-- 🖥️ **IT Infrastructure**: Skilled in system architecture and UX design.
 
 ---
 
-### 💼 Employment: Rocksteady
+## 🛣️ Mixing Skills
 
-- 🏛 **Infrastructure Engineer**: Home Office (Current)
+- 🐍 **Python**: data analysis, visualization, backend development.
 
-- 📻 **BBC Radio One**: 6 years of experience in the British music industry, which laid the foundation for my transition into the world of professional DJing.
+- 📱 **Apps**: web and mobile applications.
 
-- 🎧 **Professional DJ**: Resident at venues including The Roadhouse and Hammersmith Palais.
-
-- 🎚️ **Co-Director, DJ eXperience**: - managed DJ workshops and music production courses.
+- 🖥️ **Cloud**: AWS cloud practioner
 
 ---
 
-### 🎓 Education: The Rhythm of Learning
-
-- 🏫 **University of Winchester**: My academic journey began with a degree in Multi-Media Communication, where I learned to blend various forms of media into cohesive, impactful messages. This interdisciplinary approach has been the backbone of my diverse career.
-
-- 📊 **Continuous Learning**: To keep my skills on the cutting edge, I've completed an intensive Data Science Bootcamp, diving deep into the world of analytics and machine learning. I've also earned certifications from the prestigious University of Michigan, cloud computing skills with AWS, and become proficient in API development with Postman. This continuous learning equips me with a robust toolkit to tackle complex technological challenges.
-
----
-
-### 🌍 Languages: Communicating in Meat Space
+## 🌍 Languages: Communicating in Meat Space 🗣️
 
 - 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**.
 
----
 
-### 📬 Contact: Get in Touch 📨
-
-For collaborations, development opportunities, or discussions on technology in the music industry, I'm all ears. 👂👂
-
-<h1>🤝 <a href="https://followcrom.com/contact/contact.php" style="font-size:2em; text-decoration:underline;">Let's Connect</a></h1>
+<br>
 
 [![followCrom.com](https://img.shields.io/badge/Discover%20More-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
