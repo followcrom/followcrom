@@ -16,7 +16,7 @@
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;">followCrom online</h2>
-      🔗 Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">website</a> to see the projects I've been working on.<br>
+      🔗 Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">website</a> to see the projects I've been working on.<br><br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
@@ -28,7 +28,7 @@
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;">RanDOM WisDOM</h2>
-      🔗 Discover the power of perspective with impactful quotes from celebrated philosophers and mindful minds. <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      🔗 Discover the power of perspective with impactful quotes from celebrated philosophers and mindful minds. <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br><br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
@@ -40,7 +40,7 @@
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;">MixTape HeavyWeight</h2>
-      🔗 DJ mix player with updatign tack list, EQ, audio visualizer and comments section <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      🔗 DJ mix player with updatign tack list, EQ, audio visualizer and comments section <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br><br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
@@ -52,7 +52,7 @@
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;">Word of the Week</h2>
-      🔗 AUtomated script that selects the 'Word of the Week' and emails ot to a maiig list. Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br>
+      🔗 AUtomated script that selects the 'Word of the Week' and emails ot to a maiig list. Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.<br><br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
@@ -63,8 +63,8 @@
           </p></td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;">Momento Contento</h2>
-      🔗 Flask app connected to a MySQL database on the back-end. <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">See it in action</a>.
-      <br>
+      Flask app connected to a MySQL database on the back-end. <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">See it in action</a>.
+      <br><br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
@@ -75,7 +75,9 @@
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2>Get in Touch</h2>
-      📨 For collaborations, development projects, or anything that floats you boat - <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">get in touch</a>.
+      For collaborations, development projects, or anything that floats you boat!
+      <br><br>
+      📨 <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">Get in touch</a>.
     </td>
   </tr>
 </table>
