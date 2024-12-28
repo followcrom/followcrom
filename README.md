@@ -86,25 +86,32 @@
   </tr>
 </table>
 
+<br>
 
-
----
-
-## 🛣️ Mixing Skills
+## 📃 Skills & Certs
 
 - 🐍 **Python**: data analysis, visualization, backend development.
 
 - 📱 **Apps**: web and mobile applications.
 
-- 🖥️ **Cloud**: AWS cloud practioner
+- 🖥️ **Cloud**: AWS cloud practitioner
+
 
 ---
 
-## 🌍 Languages: Communicating in Meat Space 🗣️
+## 🌍 Languages: Communicating in Meat Space
 
-- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**.
+- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
 
 
 <br>
 
-[![followCrom.com](https://img.shields.io/badge/Discover%20More-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
+## 📢 Socials
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@followcrom)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/followCrom)
+
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@followcrom)
+
+[![followCrom.com](https://img.shields.io/badge/More%20from-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
