@@ -93,15 +93,21 @@
 
 - 🖥️ **Cloud**: AWS cloud practitioner
 
+<br>
 
 ---
+
+<br>
 
 ## 🌍 Languages: Communicating in Meat Space
 
 - 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
 
+<br>
 
 ---
+
+<br>
 
 ## 📢 Socials
 
@@ -112,5 +118,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@followCrom)
 
 [![followCrom.com](https://img.shields.io/badge/More%20from-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
+
+<br>
 
 ---
