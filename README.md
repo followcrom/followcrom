@@ -51,8 +51,8 @@
           </p>
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;"><a hrref="https://followcrom.com/wordOfTheDay/">Word of the Week</a></h2>
-      🔗 Automated script that selects a 'Word of the Week' and emails it to a subscriber list. 
+      <h2 style="color:#FFF;"><a href="https://followcrom.com/wotd/">Word of the Week</a></h2>
+      🔗 Automated script that selects a 'Word of the Week' and emails it to a subscriber list. <a href="https://followcrom.com/wotd/" style="text-decoration:underline; color:#0FF;">Subscribe here</a>.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/word-of-the-week" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
@@ -85,7 +85,7 @@
 
 <br>
 
-## 📃 Mixing Skills 💿
+## 🕋 Mixing Skills 💿
 
 - 🐍 **Python**: data analysis, visualization, backend development.
 
@@ -112,3 +112,5 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@followCrom)
 
 [![followCrom.com](https://img.shields.io/badge/More%20from-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
+
+---
