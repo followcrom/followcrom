@@ -2,7 +2,7 @@
 
 ## 🎧 // DJ turned Developer // 💻
 
-###  From Spinning Tunes to Spinning Up Servers
+###  From Spinning Tunes to Spinning Up Servers ...
 
 <table style="width:100%; background-color:#222; border-collapse:separate; border-spacing:10px;">
   <tr>
