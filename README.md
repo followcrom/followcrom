@@ -8,7 +8,7 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
           <p align="center">
-      <img src="imgs/dj_dev.png" alt="followCrom online" width="300">
+      <img src="imgs/dj_dev.png" alt="followCrom online" width="200">
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
@@ -21,7 +21,7 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="300"></a>
+        <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="200"></a>
       </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
@@ -34,7 +34,7 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
           <p align="center">
-      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="MixTape HeavyWeight" width="300">
+      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="MixTape HeavyWeight" width="200">
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
@@ -47,7 +47,7 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
             <p align="center">
-            <img src="https://followcrom.com/images/wordOftheDay.png" alt="Word of the Week" width="300">
+            <img src="https://followcrom.com/images/wordOftheDay.png" alt="Word of the Week" width="200">
           </p>
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
@@ -60,7 +60,7 @@
     <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
             <p align="center">
-            <img src="https://followcrom.com/images/djrr.jpg" alt="Image 1" width="300">
+            <img src="https://followcrom.com/images/djrr.jpg" alt="Image 1" width="200">
           </p></td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://followcrom.com/momcon/">Momento Contento</a></h2>
@@ -72,7 +72,7 @@
     <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
             <p align="center">
-            <img src="https://followcrom.com/images/contact_2.png" alt="Image 1" width="300">
+            <img src="https://followcrom.com/images/contact_2.png" alt="Image 1" width="200">
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2><a href="https://followcrom.com/contact/contact.php">Get in Touch</a></h2>
