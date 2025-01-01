@@ -52,7 +52,7 @@
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://followcrom.com/wotd/">Word of the Week</a></h2>
-      🔗 Automated script emails a 'Word of the Week' to a subscriber list. <a href="https://followcrom.com/wotd/" style="text-decoration:underline; color:#0FF;">Subscribe here</a>.
+      🔗 Automated script emails a <i>Word of the Week</i> to a mailing list. <a href="https://followcrom.com/wotd/" style="text-decoration:underline; color:#0FF;">Subscribe here</a>.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/word-of-the-week" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
@@ -97,6 +97,8 @@
 
 - 🎨 **Design**: UI/UX design
 
+- 📚 **Docs**: documentation
+
 <br>
 
 ---
@@ -115,9 +117,9 @@
 
 ---
 
-## 🌍 Languages: Communicating in Meat Space
+## 🌍 Communicating in Meat Space
 
-- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
+🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
 
 <br>
 
@@ -125,5 +127,7 @@
 
 <br>
 
-[![Last commit](https://img.shields.io/github/last-commit/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite/commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite/commits/main)
 
+
+[![GitHub Repo size in bytes](https://img.shields.io/github/repo-size/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite)
