@@ -8,7 +8,7 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
           <p align="center">
-      <img src="imgs/dj_dev.png" alt="followCrom online" width="200">
+      <img src="https://followcrom.com/images/vinyl.png" alt="followCrom online" width="200">
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
@@ -52,7 +52,7 @@
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://followcrom.com/wotd/">Word of the Week</a></h2>
-      🔗 Automated script that selects a 'Word of the Week' and emails it to a subscriber list. <a href="https://followcrom.com/wotd/" style="text-decoration:underline; color:#0FF;">Subscribe here</a>.
+      🔗 Automated script emails a 'Word of the Week' to a subscriber list. <a href="https://followcrom.com/wotd/" style="text-decoration:underline; color:#0FF;">Subscribe here</a>.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/word-of-the-week" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
@@ -87,27 +87,19 @@
 
 ## 🕋 Mixing Skills 💿
 
-- 🐍 **Python**: data analysis, visualization, backend development.
+- 🐍 **Python**: backend development, Django, Flask
 
-- 📱 **Apps**: web and mobile applications.
+- 📱 **Apps**: web and mobile applications
 
 - 🖥️ **Cloud**: AWS cloud practitioner
 
-<br>
+- 📈 **Data**: data analysis and visualization
 
----
-
-<br>
-
-## 🌍 Languages: Communicating in Meat Space
-
-- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
+- 🎨 **Design**: UI/UX design
 
 <br>
 
 ---
-
-<br>
 
 ## 📢 Socials
 
@@ -122,3 +114,16 @@
 <br>
 
 ---
+
+## 🌍 Languages: Communicating in Meat Space
+
+- 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
+
+<br>
+
+---
+
+<br>
+
+[![Last commit](https://img.shields.io/github/last-commit/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite/commits/master)
+
