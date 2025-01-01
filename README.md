@@ -1,63 +1,60 @@
-# 👋 followCrom on GitHub
+# 👋 followCrom on GitHub 🤗
 
-### DJ turned Developer // Mixing Skills 💿
+## 🎧 // DJ turned Developer // 💻
 
-###  From Spinning Tunes to Spinning Up Servers 🖥
-
-### 🌐 Portfolio: <a href="https://followcrom.com" style="text-decoration:underline;">Visit followCrom online</a>
-
+###  From Spinning Tunes to Spinning Up Servers
 
 <table style="width:100%; background-color:#222; border-collapse:separate; border-spacing:10px;">
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
           <p align="center">
-      <img src="imgs/dj_dev.png" alt="Image 1" width="300">
+      <img src="imgs/dj_dev.png" alt="followCrom online" width="300">
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;">followCrom online</h2>
+      <h2 style="color:#FFF;"><a href="https://followcrom.com">followCrom online</a></h2>
       🔗 Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">website</a> to see the projects I've been working on.
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/followcromSite" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="Image 1" width="300"></a>
+        <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="300"></a>
       </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom">RanDOM WisDOM</a></h2>
-      🔗 Discover the power of perspective with impactful quotes from celebrated philosophers and mindful minds. 
+      🔗 Get some perspective with the Android app. <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" style="text-decoration:underline; color:#0FF;">Available from the Play Store</a>. 
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/ranDOM-wisDOM" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
           <p align="center">
-      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="Image 1" width="300">
+      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="MixTape HeavyWeight" width="300">
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;">MixTape HeavyWeight</h2>
-      🔗 DJ mix player with updatign tack list, EQ, audio visualizer and comments section <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.
+      <h2 style="color:#FFF;"><a href="https://www.mixtape-heavyweight.one/">MixTape HeavyWeight</a></h2>
+      🔗 <a href="https://www.mixtape-heavyweight.one/" style="text-decoration:underline; color:#0FF;">DJ mix player</a> with updating tracklist, EQ, audio visualizer, and comments section.
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/MixTapeHeavyWeight" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
             <p align="center">
-            <img src="https://followcrom.com/images/wordOftheDay.png" alt="Image 1" width="300">
+            <img src="https://followcrom.com/images/wordOftheDay.png" alt="Word of the Week" width="300">
           </p>
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;">Word of the Week</h2>
-      🔗 AUtomated script that selects the 'Word of the Week' and emails ot to a maiig list. Visit the <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">followCrom website</a> to see all the projects I've been working on and get in touch.
+      <h2 style="color:#FFF;"><a hrref="https://followcrom.com/wordOfTheDay/">Word of the Week</a></h2>
+      🔗 Automated script that selects a 'Word of the Week' and emails it to a subscriber list. 
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/word-of-the-week" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
     <tr>
@@ -66,10 +63,10 @@
             <img src="https://followcrom.com/images/djrr.jpg" alt="Image 1" width="300">
           </p></td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;">Momento Contento</h2>
-      Flask app connected to a MySQL database on the back-end. <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">See it in action</a>.
+      <h2 style="color:#FFF;"><a href="https://followcrom.com/momcon/">Momento Contento</a></h2>
+      Flask app connected to a MySQL database on the back-end. <a href="https://followcrom.com/momcon/" style="text-decoration:underline; color:#0FF;">See it in action</a>.
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/momento_contento" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
     <tr>
@@ -78,17 +75,17 @@
             <img src="https://followcrom.com/images/contact_2.png" alt="Image 1" width="300">
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2>Get in Touch</h2>
+      <h2><a href="https://followcrom.com/contact/contact.php">Get in Touch</a></h2>
       For collaborations, development projects, or anything that floats you boat!
       <br>
-      📨 <a href="https://followcrom.com" style="text-decoration:underline; color:#0FF;">Get in touch</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/followcromSite" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
 </table>
 
 <br>
 
-## 📃 Skills & Certs
+## 📃 Mixing Skills 💿
 
 - 🐍 **Python**: data analysis, visualization, backend development.
 
@@ -104,7 +101,7 @@
 - 🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
 
 
-<br>
+---
 
 ## 📢 Socials
 
@@ -112,6 +109,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/followCrom)
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@followcrom)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@followCrom)
 
 [![followCrom.com](https://img.shields.io/badge/More%20from-followCrom.com-blue?style=for-the-badge)](http://followcrom.com)
