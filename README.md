@@ -2,7 +2,7 @@
 
 ## 🎧 // DJ turned Developer // 💻
 
-###  From Spinning Tunes to Spinning Up Servers ...
+### 𖣐 From Spinning Tunes to Spinning Up Servers ...
 
 <table style="width:100%; background-color:#222; border-collapse:separate; border-spacing:10px;">
   <tr>
@@ -26,7 +26,7 @@
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank">RanDOM WisDOM</a></h2>
-      🔗 Get some perspective with the Android app. <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank" style="text-decoration:underline; color:#0FF;">Available from the Play Store</a>. 
+      🔗 Get some perspective with the Android app. <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank" style="text-decoration:underline; color:#0FF;">Free from the Play Store</a>. 
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/ranDOM-wisDOM" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
@@ -52,7 +52,7 @@
           </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://followcrom.com/wotd/" target="_blank">Word of the Week</a></h2>
-      🔗 Automated script emails a <i>Word of the Week</i> to a mailing list. <a href="https://followcrom.com/wotd/" target="_blank" style="text-decoration:underline; color:#0FF;">Subscribe here</a>.
+      🔗 Automated script emails a <i>Word of the Week</i> to a mailing list. <a href="https://followcrom.com/wotd/" target="_blank" style="text-decoration:underline; color:#0FF;">Subscribe now</a>.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/word-of-the-week" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
@@ -76,7 +76,7 @@
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2><a href="https://followcrom.com/contact/contact.php" target="_blank">Get in Touch</a></h2>
-      For collaborations, development projects, or anything that floats you boat!
+      For collaborations, development projects, or anything that floats you boat! ⛵
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/followcromSite" target="_blank"  style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
@@ -85,7 +85,7 @@
 
 <br>
 
-## 🕋 Mixing Skills 💿
+## 🥣 Mixing Skills
 
 - 🐍 **Python**: backend development, Django, Flask
 
