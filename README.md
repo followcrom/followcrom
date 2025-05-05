@@ -117,15 +117,13 @@
 
 ---
 
-## 🌍 Communicating in Meat Space
+## 🌍 Communicating in Meat Space 🥦
 
-🇬🇧 **English**, 🇪🇸 **Spanish**, and 🇫🇷 **French**
+**English** 🇬🇧, **Spanish** 🇪🇸, and  **French** 🇫🇷.
 
 <br>
 
 ---
-
-<br>
 
 [![Last commit](https://img.shields.io/github/last-commit/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite/commits/main)
 
