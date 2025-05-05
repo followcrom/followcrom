@@ -2,7 +2,7 @@
 
 ## 🎧 // DJ turned Developer // 💻
 
-### 𖣐 From Spinning Tunes to Spinning Up Servers ...
+### ⚙️ From Spinning Tunes to Spinning Up Servers ...
 
 <table style="width:100%; background-color:#222; border-collapse:separate; border-spacing:10px;">
   <tr>
@@ -28,7 +28,7 @@
       <h2 style="color:#FFF;"><a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank">RanDOM WisDOM</a></h2>
       🔗 Get some perspective with the Android app. <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank" style="text-decoration:underline; color:#0FF;">Free from the Play Store</a>. 
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/ranDOM-wisDOM" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+      <span style="color:#FFF;">&#x1F4E6;</span> This repo is private.
     </td>
   </tr>
   <tr>
