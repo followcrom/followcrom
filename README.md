@@ -127,7 +127,7 @@
 
 <br>
 
-[![Last commit](https://img.shields.io/github/last-commit/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/followcrom/followcrom?style=for-the-badge)](https://github.com/followcrom/followcrom/commits/main)
 
 
 [![GitHub Repo size in bytes](https://img.shields.io/github/repo-size/followcrom/followcromSite?style=for-the-badge)](https://github.com/followcrom/followcromSite)
