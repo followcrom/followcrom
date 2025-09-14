@@ -51,8 +51,8 @@
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;"><a href="https://mixtape.followcrom.com/" target="_blank">Jelly Gut</a></h2>
-      🔗 A GitHub-authenticated <a href="https://mixtape.followcrom.com/" target="_blank" style="text-decoration:underline; color:#0FF;">interactive web calendar</a> for efficient task management.
+      <h2 style="color:#FFF;"><a href="https://followcrom.github.io/jellygut/" target="_blank">Jelly Gut</a></h2>
+      🔗 A GitHub-authenticated <a href="https://followcrom.github.io/jellygut/" target="_blank" style="text-decoration:underline; color:#0FF;">interactive web calendar</a> for efficient task management.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/jellygut" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
