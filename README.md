@@ -21,11 +21,11 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="200"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.followcrom.domdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="200"></a>
       </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;"><a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank">RanDOM WisDOM</a></h2>
+      <h2 style="color:#FFF;"><a href="https://play.google.com/store/apps/details?id=com.followcrom.domdom" target="_blank">RanDOM WisDOM</a></h2>
       🔗 Get some perspective with the Android app. <a href="https://play.google.com/store/apps/details?id=online.followcrom.RandomWisdom" target="_blank" style="text-decoration:underline; color:#0FF;">Free from the Play Store</a>. 
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> This repo is private.
@@ -38,10 +38,23 @@
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-      <h2 style="color:#FFF;"><a href="https://www.mixtape-heavyweight.one/" target="_blank">MixTape HeavyWeight</a></h2>
-      🔗 <a href="https://www.mixtape-heavyweight.one/" target="_blank" style="text-decoration:underline; color:#0FF;">DJ mix player</a> with updating tracklist, EQ, audio visualizer, and comments section.
+      <h2 style="color:#FFF;"><a href="https://mixtape.followcrom.com/" target="_blank">MixTape HeavyWeight</a></h2>
+      🔗 <a href="https://mixtape.followcrom.com/" target="_blank" style="text-decoration:underline; color:#0FF;">DJ mix player</a> with updating tracklist, EQ, audio visualizer, and comments section.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/MixTapeHeavyWeight" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+    </td>
+  </tr>
+    <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+          <p align="center">
+      <img src="https://github.com/followcrom/jellygut/raw/main/jelly-chef.png" alt="Jelly Gut" width="200">
+            </p>
+    </td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;"><a href="https://mixtape.followcrom.com/" target="_blank">Jelly Gut</a></h2>
+      🔗 A GitHub-authenticated <a href="https://mixtape.followcrom.com/" target="_blank" style="text-decoration:underline; color:#0FF;">interactive web calendar</a> for efficient task management.
+      <br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/jellygut" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
   <tr>
