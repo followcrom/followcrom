@@ -33,8 +33,8 @@
   </tr>
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-          <p align="center">
-      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="MixTape HeavyWeight" width="200">
+          <p align="center"><a href="https://mixtape.followcrom.com/" target="_blank">
+      <img src="https://followcrom.com/images/theMixtapeHeavyweight2.png" alt="MixTape HeavyWeight" width="200"></a>
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
@@ -46,8 +46,8 @@
   </tr>
     <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-          <p align="center">
-      <img src="https://github.com/followcrom/jellygut/raw/main/jelly-chef.png" alt="Jelly Gut" width="200">
+          <p align="center"><a href="https://followcrom.github.io/jellygut/" target="_blank">
+      <img src="https://github.com/followcrom/jellygut/raw/main/jelly-chef.png" alt="Jelly Gut" width="200"></a>
             </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
