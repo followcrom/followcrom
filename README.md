@@ -73,13 +73,25 @@
     <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
             <p align="center"><a href="https://followcrom.com/momcon/" target="_blank">
-            <img src="https://followcrom.com/images/djrr.jpg" alt="Image 1" width="200"></a>
+            <img src="https://followcrom.com/images/djrr.jpg" alt="DJ RR" width="200"></a>
           </p></td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://followcrom.com/momcon/" target="_blank">Momento Contento</a></h2>
       Flask app connected to a MySQL database on the back-end. <a href="https://followcrom.com/momcon/" target="_blank" style="text-decoration:underline; color:#0FF;">See it in action</a>.
       <br>
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/momento_contento" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+    </td>
+  </tr>
+      <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+            <p align="center"><a href="https://github.com/followcrom/cromWell" target="_blank">
+            <img src="imgs/cromwell.png" alt="Cromwellian" width="200"></a>
+          </p></td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;"><a href="https://github.com/followcrom/cromWell" target="_blank">CromWell</a></h2>
+      Fetch and analyze your Fitbit health data. Uses Fitbit API to pull data and visualize them with Plotly.
+      <br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/cromWell" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
     <tr>
