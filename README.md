@@ -94,6 +94,18 @@
       <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/cromWell" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
+        <tr>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+            <p align="center"><a href="https://github.com/followcrom/cromWell" target="_blank">
+            <img src="https://github.com/followcrom/Samo/blob/main/imgs/making_sense_blue-1024x1024.png" alt="Samo" width="200"></a>
+          </p></td>
+    <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
+      <h2 style="color:#FFF;"><a href="https://github.com/followcrom/Samo" target="_blank">Samo</a></h2>
+Polls the podcast RSS feed and sends an ntfy push notification for each new episode.
+      <br>
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/Samo" style="text-decoration:underline; color:#0FF;">from the repo</a>.
+    </td>
+  </tr>
     <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
             <p align="center"><a href="https://followcrom.com/contact/contact.php" target="_blank">
