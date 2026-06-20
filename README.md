@@ -96,7 +96,7 @@
   </tr>
         <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
-            <p align="center"><a href="https://github.com/followcrom/cromWell" target="_blank">
+            <p align="center"><a href="https://github.com/followcrom/Samo" target="_blank">
             <img src="https://github.com/followcrom/Samo/blob/main/imgs/making_sense_blue-1024x1024.png" alt="Samo" width="200"></a>
           </p></td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
