@@ -21,14 +21,14 @@
   <tr>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.followcrom.domdom"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="200"></a>
+        <a href="https://github.com/followcrom/domdom54"><img src="https://followcrom.com/images/random_wisdom.png" alt="RanDOM WisDOM" width="200"></a>
       </p>
     </td>
     <td style="background-color:#444; border-radius:10px; padding:10px; border:1px solid #FFF;">
       <h2 style="color:#FFF;"><a href="https://play.google.com/store/apps/details?id=com.followcrom.domdom" target="_blank">RanDOM WisDOM</a></h2>
       🔗 Get some perspective with the Android app. <a href="https://play.google.com/store/apps/details?id=com.followcrom.domdom" target="_blank" style="text-decoration:underline; color:#0FF;">Free from the Play Store</a>. 
       <br>
-      <span style="color:#FFF;">&#x1F4E6;</span> This repo is private.
+      <span style="color:#FFF;">&#x1F4E6;</span> Get the code <a href="https://github.com/followcrom/domdom54" style="text-decoration:underline; color:#0FF;">from the repo</a>.
     </td>
   </tr>
   <tr>
